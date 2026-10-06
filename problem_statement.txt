@@ -1,0 +1,20 @@
+AI TEXT SUMMARIZER - PROBLEM STATEMENT
+
+Problem:
+Create a Python program that accepts a long piece of text and generates a shorter summary containing the most important sentences.
+
+Requirements:
+1. Accept multi-line text from the user.
+2. Split the text into sentences.
+3. Identify frequently occurring meaningful words.
+4. Score sentences based on important words.
+5. Select the highest-scoring sentences.
+6. Allow the user to choose the number of summary sentences.
+7. Display the summary clearly.
+8. Handle empty and invalid input.
+
+Goal:
+Practice Python text processing, functions, lists, dictionaries, regular expressions, loops, and basic extractive summarization.
+
+Future Goal:
+Upgrade the project using an NLP/AI model such as Hugging Face Transformers or an AI API.
